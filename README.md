@@ -1,1 +1,0 @@
-# coursera_assignment2.md
